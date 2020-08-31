@@ -1,0 +1,59 @@
+/* one.css
+one css file for all app pages */
+
+.xdddd-my-code-now {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.author-compatibility {
+    color: #777777;
+    font-weight: 500;
+}
+.paragraph {
+    margin-bottom: 20px;
+}
+@media screen and (min-width: 768px) {
+    .xdddd-my-code-now {
+        padding-right: 200px;
+        padding-left: 200px;
+    }
+}
+.platformAndroid {
+    background-color: #3ddc84;
+    padding: 7.5px;
+    width: 75px;
+    border-radius: 7.5px;
+    align-content: center;
+    margin-right: 15px;
+}
+.platformiOS {
+    background-color: rgb(10, 132, 255);
+    padding: 7.5px;
+    width: 75px;
+    border-radius: 15px;
+    align-content: center;
+    margin-right: 15px;
+}
+.getiOS, .getAndroid {
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 14px;
+}
+.getiOS {
+    color: #eee!important;
+    opacity: 1!important;
+}
+.getiOS:hover {
+    color: #eee!important;
+    opacity: 1!important;
+}
+.getAndroid {
+    color: #333!important;
+    opacity: 1!important;
+}
+.getAndroid:hover {
+    color: #333!important;
+    opacity: 1!important;
+}
