@@ -1,0 +1,19 @@
+/* ayefries.css
+overwrite webflow.css with css3 !important tag */
+html {
+    scroll-behavior: smooth;
+}
+body {
+    transition: ease 300ms;
+}
+a {
+    color: #eee!important;
+    transition: ease 200ms;
+}
+a:hover {
+    color: rgb(10, 132, 255)!important;
+    opacity: 0.75;
+}
+body {
+    color: #eee!important;
+}
