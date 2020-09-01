@@ -40,6 +40,7 @@ one css file for all app pages */
     padding: 5px;
     font-weight: 600;
     font-size: 14px;
+	text-decoration: none;
 }
 .getiOS {
     color: #eee!important;
